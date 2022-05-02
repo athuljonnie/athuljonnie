@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @athuljonnie
-- 👀 I’m interested in networking,cyber security,programming
-- 🌱 I’m a beginner who is trying 24/7 to improve.
+- 👋 Hi, I’m @athuljonnie.
+- 👀 I’m commited to becoming a self taught dev.
+- 🌱 I’m a beginner.
