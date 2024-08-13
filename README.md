@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Athul Jonnie</h1>
 <h3 align="center">I'm passionate about building apps and problem solving.</h3>
 
-- 🔭 I’m currently working on [Cyborg Gaming](https://github.com/athuljonnie/cyborg-gaming)
 
 - 🌱 I’m currently learning **Angular**
 
